@@ -2,7 +2,9 @@ package main
 
 import "fmt"
 
-/*sdafkjaskjfdhaslkjdfhjklsad*/
+/*
+	всякое назавниее ываылдваоылв было
+*/
 
 func main() {
 	fmt.Println("Hello Go", "====== I am best man")
