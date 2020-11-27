@@ -5,9 +5,10 @@ import "fmt"
 /*
 	всякое назавниее ываылдваоылв было
 	еще какие то изменения
-	ывафыва
+	ывафываasdfhasdkjlfhalsdhf
+	s\f\asdfas
+	df;asjdflkasjd;lkfj
 */
-
 func main() {
 	fmt.Println("Hello Go", "====== I am best man")
 }
